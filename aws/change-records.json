@@ -9,7 +9,7 @@
         "TTL": 300,
         "ResourceRecords": [
           {
-            "Value": "10.0.2.18"
+            "Value": "10.0.2.158"
           }
         ]
       }
@@ -22,7 +22,7 @@
         "TTL": 300,
         "ResourceRecords": [
           {
-            "Value": "10.0.2.185"
+            "Value": "10.0.2.94"
           }
         ]
       }
@@ -35,7 +35,7 @@
         "TTL": 300,
         "ResourceRecords": [
           {
-            "Value": "10.0.3.165"
+            "Value": "10.0.3.97"
           }
         ]
       }
